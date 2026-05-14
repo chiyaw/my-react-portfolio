@@ -9,7 +9,9 @@ function Lita() {
 
 <Sidebar/>
 
-        <div className="min-w-0 flex-1 text-black">Lita Page</div>
+        <div className="min-w-0 flex-1 text-black flex justify-center items-center  flex-col">
+          <p>🎨 This corner of the website is still being painted.</p>
+<p>Try not to touch the wet CSS.</p></div>
 
 
     </div>

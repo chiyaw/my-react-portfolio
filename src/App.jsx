@@ -5,6 +5,7 @@ import { Route, Routes } from 'react-router-dom'
 import Lita from './Sections/Projects_Page/Lita'
 import Bookmark from './Sections/Projects_Page/Bookmark'
 import Detail from './Sections/Detail'
+import Flogram from './Sections/Projects_Page/Flogram'
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
     }/>
     <Route path='/lita' element={<Lita/>}/>
     <Route path='/bookmark-app' element={<Bookmark/>}/>
+    <Route path='/flogram' element={<Flogram/>}/>
    </Routes>
   )
 }
