@@ -6,7 +6,7 @@ export default function Detail() {
   return (
     <section
       id="detail"
-      className="min-h-screen flex items-center justify-around px-6 py-20  text-black">
+      className="min-h-[90vh] flex items-center justify-around px-6  text-black">
 
       <div className="max-w-3xl w-1/2 text-left m-4 px-10">
         <h2 className="text-black text-5xl mb-4">

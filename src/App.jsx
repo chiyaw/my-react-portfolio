@@ -7,6 +7,7 @@ import Lita from './Sections/Projects_Page/Lita'
 import Bookmark from './Sections/Projects_Page/Bookmark'
 import Detail from './Sections/Detail'
 import Flogram from './Sections/Projects_Page/Flogram'
+import Footer from './Sections/Footer'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
         <Hero />
         <Projects/>
         <Detail/>
+        <Footer/>
       </main>
     </div>
     }/>
