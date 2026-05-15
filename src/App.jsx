@@ -1,3 +1,4 @@
+import React from "react";
 import Sidebar from './Sections/Sidebar'
 import Hero from './Sections/Hero'
 import Projects from './Sections/Projects'
