@@ -29,7 +29,7 @@ export default function Detail() {
      <div className="w-1/2 flex justify-center items-center">
   <div className="relative w-fit">
     <img 
-      className="h-150 w-100 object-cover -scale-x-100 " 
+      className="h-150 w-100 object-cover -scale-x-100 rounded-xl shadow-2xl" 
       src="https://res.cloudinary.com/db3ksjj2j/image/upload/v1778781805/img_rdjpk0.jpg" 
       alt="Profile"
     />
