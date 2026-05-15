@@ -3,7 +3,7 @@ import Sidebar from '../Sidebar'
 
 function Flogram() {
   return (
-      <div className="flex min-h-screen w-full flex-row">
+      <div className="flex min-h-screen w-full flex-row bg-[#FEF6EA]">
   
   
   <Sidebar/>
