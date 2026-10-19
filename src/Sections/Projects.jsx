@@ -11,7 +11,7 @@ const projects = [
     image2:
       "https://res.cloudinary.com/db3ksjj2j/image/upload/v1777741853/Screenshot_2026-05-02_at_10.39.52_PM_pkakgl.png",
     github: "https://github.com/chiyaw/chat-app",
-    live: "http://34.198.65.127",
+    live: "https://chat-app-delta-five-16.vercel.app",
     article: "/lita",
   },
   {
